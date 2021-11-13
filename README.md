@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[<img align="left" alt="linuxscout | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ibrahimhammani/)
 <!--
 **Ibrahimhammani/ibrahimhammani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
