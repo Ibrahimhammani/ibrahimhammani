@@ -1,5 +1,7 @@
-### Hi there 👋
-[<img align="left" alt="linuxscout | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ibrahimhammani/)
+### Hi there 👋, you can find me on:
+ [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin" />](https://www.linkedin.com/in/ibrahimhammani/)
+ [<img align="left" alt="Blogger" src="https://img.shields.io/badge/-Blogger-%23FF5722?logo=blogger&logoColor=white" />](https://ibrahimhammani.blogspot.com/ )
+
 <!--
 **Ibrahimhammani/ibrahimhammani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
